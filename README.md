@@ -66,13 +66,4 @@ This tool reads multiple PDF documents and intelligently identifies sections tha
 
 ---
 
-## 📂 Folder Structure
 
-```bash
-.
-├── input/
-│   └── challenge1b_input.json      # Input persona/task + PDF list
-├── output/
-│   └── challenge1b_output.json     # Output results
-├── extractor.py                    # Main script
-├── README.md                       # You're here!
