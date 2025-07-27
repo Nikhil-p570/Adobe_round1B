@@ -1,0 +1,19 @@
+# Ignore Docker build context files
+.dockerignore
+Dockerfile
+
+# Ignore git files
+.git/
+.gitignore
+
+# Python cache
+__pycache__/
+
+# Generated output folders
+output/
+output_headings/
+output_selection/
+
+# Virtual environment folders
+venv/
+.venv/

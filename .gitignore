@@ -1,0 +1,16 @@
+
+output/
+output_headings/
+output_selection/
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+
+
+.DS_Store
+.vscode/
+Thumbs.db
