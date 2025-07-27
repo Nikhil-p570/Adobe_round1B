@@ -1,6 +1,6 @@
 # Adobe_round1B
  🧠 Persona-Driven Document Intelligence System
-Team Name : NAN
+**Team Name : NAN**
 A system that acts as an intelligent document analyst, extracting and prioritizing the most relevant sections from a collection of documents based on a specific persona and their job-to-be-done.
 
 ---
