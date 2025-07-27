@@ -1,6 +1,7 @@
-# 🎯 Adobe Round 1B — Persona-Driven Document Intelligence System
+# 🎯 📄 Adobe India Hackathon 2025 – Round 1B Submission
 
-> **Team Name:** `NAN`
+### 🔍 Challenge: “Connect What Matters – For the User Who Matters”
+ **Team Name:** NAN
 
 ---
 
@@ -87,10 +88,7 @@ Users provide a config JSON file with:
       "South of France - Cities.pdf",
       "South of France - Cuisine.pdf",
       "South of France - History.pdf",
-      "South of France - Restaurants and Hotels.pdf",
-      "South of France - Things to Do.pdf",
-      "South of France - Tips and Tricks.pdf",
-      "South of France - Traditions and Culture.pdf"
+      // more pdfs...
     ],
     "persona": "Travel Planner",
     "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
