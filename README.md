@@ -1,7 +1,6 @@
 # 🎯 Persona Driven Document Intelligence System
 
-### 🔍 Challenge: “Connect What Matters – For the User Who Matters”
- **Team Name:** NAN
+
 
 ---
 
