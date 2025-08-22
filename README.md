@@ -1,9 +1,5 @@
 # 🎯 Persona Driven Document Intelligence System
 
-
-
----
-
 ## 🧠 Project Summary
 
 An intelligent, persona-driven system that analyzes a collection of PDFs and extracts the most relevant sections tailored to a specific **persona** and their **job-to-be-done**. Designed to automate content filtering, contextual information retrieval, and personalized document summarization.
