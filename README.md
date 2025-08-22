@@ -177,4 +177,4 @@ docker run --rm \
 
 ## 👥 Contributors
 
-- Team NAN – Adobe Document Intelligence Hackathon 2025
+- Team NAN –Persona-Driven-Document-Intelligence-System
