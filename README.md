@@ -1,4 +1,4 @@
-# 🎯 📄 Adobe India Hackathon 2025 – Round 1B Submission
+# 🎯 Persona Driven Document Intelligence System
 
 ### 🔍 Challenge: “Connect What Matters – For the User Who Matters”
  **Team Name:** NAN
